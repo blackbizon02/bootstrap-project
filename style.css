@@ -1,0 +1,226 @@
+header {
+    background-image: url(img/henrique-setim-XuD9vHw6yeY-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .6;
+}
+
+.nav-link {
+    color: #fff !important;
+    text-transform: uppercase;
+}
+
+.logo-color {
+    color: #bc9d20;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.home-color {
+    color: #bc9d20 !important;
+}
+
+.con-color {
+    color: #fff;
+}
+
+.btn-1 {
+    background-color: #bc9d20;
+    color: white;
+    padding: 10px 15px;
+}
+
+.btn-2 {
+    border-color: #bc9d20;
+    color: #bc9d20;
+    padding: 10px 20px;
+}
+.arrow {
+    width: 30px;
+    height: 30px;
+}
+
+.card-border {
+    border: none;
+}
+
+.what-we-do {
+    background-color: #f3f4f8;
+}
+
+.ddd::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 40px;
+    padding-top: 20px;
+    border-bottom: 3px solid #bc9d20;
+}
+
+.color h1, .color p {
+    color: #414246;
+}
+
+.first-color {
+    color: #919296;
+    font-size: 3.4rem;
+    font-weight: bold;
+}
+
+.hhh h5, .hhh p {
+    color: #414246;
+}
+
+.hhh a {
+    color: #bc9d20;
+}
+
+.bg-color {
+    background-color: #f3f4f8;
+}
+
+.tt-color h1, .tt-color p {
+    color: #414246;
+}
+
+.tt-color p::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 40px;
+    padding-top: 40px;
+    border-bottom: 3px solid #bc9d20;
+}
+
+.col-4 img {
+    max-width: 100%;
+}
+
+#second-back {
+    background-image: url(img/henning-witzel-ukvgqriuOgo-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+#second-back::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(43, 42, 42);
+    opacity: .8;
+}
+
+.jjj h1, .jjj p {
+    color: #414246;
+}
+
+.bb-bot::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 40px;
+    padding-top: 30px;
+    border-bottom: 3px solid #bc9d20;
+}
+
+.qqq h6, .qqq p, .qqq a {
+    color: #414246;
+}
+
+.qqq a {
+    text-decoration: none;
+}
+
+.qqq {
+    border: none;
+}
+
+.card-body {
+    padding-left: 0;
+}
+
+#connect {
+    background-color: #495468;
+}
+
+.colorh {
+    color: #fff;
+    font-weight: bold;
+}
+
+.bot-lane p {
+    color: #fff;
+}
+
+.bot-lane p::after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 40px;
+    padding-top: 40px;
+    border-bottom: 3px solid #bfff;
+}
+
+.input-form input, textarea {
+    border-radius: 0;
+    border-color: #bc9d20;
+    background-color: #495468;
+}
+
+.input-form textarea{
+    padding: .375rem .75rem;
+    outline: none;
+    resize: vertical;
+    max-width: 636px;
+}
+
+.input-form textarea:focus {
+    background-color: #fff;
+    outline: 4px solid rgb(76, 76, 173);
+}
+
+.lll {
+    background-color: #495468;
+    color: #bc9d20;
+    border-color: #bc9d20;
+    width: 200px;
+    text-align: center;
+}
+
+.communicate div {
+    color: white;
+}
+
+.communicate span {
+    color: #bc9d20;
+}
+
+.foot-text {
+    color: #414246;
+}
+
+.foot-text span {
+    color: #bc9d20;
+}
